@@ -6,6 +6,7 @@ public class LoopPractice {
             System.out.println("i = " + i);
 
             System.out.println("10 = " + 10);
+            System.out.println( "Use check mark");
             
         }
     }
